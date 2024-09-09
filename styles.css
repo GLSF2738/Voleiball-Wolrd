@@ -1,0 +1,52 @@
+body {
+    color:rgb(231, 113, 9);
+    background: rgb(3, 14, 83);
+    margin: 0px;
+    font-family: "New Amsterdam", sans-serif ;
+}
+
+header{
+   border-bottom: solid 2px rgb(245, 244, 243);
+   padding: 20px;
+   font-size: 55px;
+   color:rgb(from color 231, 113, 9)
+}
+
+section {
+  background: rgb(3, 14, 83);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  justify-content: left;
+}
+
+.V1 {
+  font-size: 30px;
+  padding: 20px;
+}
+
+.video{
+   font-size: 25px; 
+   padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+ font-size: 25px;
+}
+
+img {
+  height: 200px;
+}
+.Categoria
+.Mais-Volêi{
+  display: flex;
+  overflow-x: auto;
+  gap: 10xp;
+}
+.Categoria{
+  padding-left: 20px;
+  padding-right: 20px;
+}
